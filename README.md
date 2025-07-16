@@ -100,8 +100,7 @@ An intuitive landing page with interactive navigation to departmental dashboards
 
 ## 🔗 Project Links
 
-- 📊 [Live Power BI Dashboard](https://lnkd.in/gJJppY9D)
-- 🎥 *Presentation Video* (optional link)
-- 📽️ *View the PPT* (optional link)
 
+- 📊 [Live Power BI Dashboard](https://lnkd.in/gJJppY9D)
+- 🎥 [Presentation Video](https://www.linkedin.com/posts/hardik-anavadiya-9b32a4208_%F0%9D%90%93%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%81%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AC-activity-7330264401289064448-29lk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS5YpcBtcIBviMrhQ1f5LWzecT-dpS-YDw) – LinkedIn post showcasing the dashboard and insights
 ---
