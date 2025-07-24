@@ -4,13 +4,13 @@ This project presents a comprehensive Power BI solution developed for AtliQ Hard
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 AtliQ Hardware suffered a major business loss in Latin America due to inefficient data reporting systems based on Excel. To enable better transparency and informed decision-making, the leadership team initiated a data transformation project. This Power BI report is designed to provide **live, department-specific dashboards**, empowering executives to make faster and smarter decisions.
 
 ---
 
-## 📂 Data Sources
+## Data Sources
 
 - Excel / CSV files  
 - SQL database (MySQL)  
@@ -18,44 +18,44 @@ AtliQ Hardware suffered a major business loss in Latin America due to inefficien
 
 ---
 
-## 📈 Dashboards & Views
+## Dashboards & Views
 
-### 🏠 Home View
+### Home View
 An intuitive landing page with interactive navigation to departmental dashboards.
 
-### 💰 Finance View
+### Finance View
 - Full P&L statements by customer, product, or segment  
 - KPIs: Net Sales, Gross Margin %, Net Profit %  
 - Drill-down capabilities for in-depth financial analysis
 
-### 📈 Sales View
+### Sales View
 - Performance trends by product and customer  
 - Gross Margin tolerance tracking  
 - Year-over-year comparisons
 
-### 📣 Marketing View
+### Marketing View
 - NS $ vs GM $ scatter charts  
 - Profitability analysis of campaigns  
 - Strategic pricing and promotional insights
 
-### 📦 Supply Chain View
+### Supply Chain View
 - Forecast accuracy with YOY trend analysis  
 - Net error & risk scoring by SKU  
 - Inventory and demand planning insights
 
-### 🔑 Key Performers View
+### Key Performers View
 - Top revenue contributors by customer and market  
 - Product-level margin performance  
 - Strategic investment prioritization
 
-### 👨‍💼 Executive View
+### Executive View
 - Market share evolution  
 - Target vs actual performance tracking  
 - High-level KPIs at a glance
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Power BI Desktop** – Dashboard development  
 - **SQL (MySQL)** – Data retrieval & exploration  
@@ -67,29 +67,29 @@ An intuitive landing page with interactive navigation to departmental dashboards
 
 ---
 
-## 🔍 Key Takeaways
+## Key Takeaways
 
-### 📊 Core Concepts
+### Core Concepts
 - Data Modeling using Snowflake Schema  
 - Calculated Columns & Relationships  
 - Time Intelligence: YTD, MTD, SAMEPERIODLASTYEAR  
 - DAX functions: ALL, DIVIDE, SELECTEDVALUE, SUMX
 
-### 🎨 Visualization Techniques
+### Visualization Techniques
 - KPI indicators & tooltips  
 - Conditional formatting  
 - Bookmarks & drill-throughs  
 - Dynamic titles using filters  
 - Hierarchies and intuitive layouts
 
-### 🔄 Power BI Service
+### Power BI Service
 - Publishing dashboards to Power BI Service  
 - Scheduled data refresh and gateway management  
 - Workspace and role-level security setup
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 
 - ✅ Faster decision-making with real-time dashboards  
 - ✅ Reduced reporting time and manual data work  
